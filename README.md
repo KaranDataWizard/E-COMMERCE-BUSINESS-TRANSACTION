@@ -1,8 +1,5 @@
 
-# 📦 E-Commerce Sales Data Analysis (500K+ Records)  
-**🔍 SQL-Based Business Insights | 🧹 Excel for Preprocessing**
 
----
 
 # 📦 E-Commerce Sales Data Analysis (500K+ Records)  
 **🔍 SQL-Based Business Insights | 🧹 Excel for Preprocessing**
