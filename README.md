@@ -135,3 +135,5 @@ This end-to-end analytics project showcases how structured **SQL** queries — c
 
 ⭐ *If you found this helpful, feel free to star the repo and share it with others!*  
 🛠️ *Open to collaboration and suggestions — fork it, explore it, improve it!*
+
+**📊 For Dataset connect me on Linkdin**  
